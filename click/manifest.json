@@ -1,10 +1,10 @@
 {
     "name": "qmlviewer.timsueberkrueb",
-    "description": "description of qmlviewer",
+    "description": " A simple QML file viewer for Ubuntu",
     "architecture": "@CLICK_ARCH@",
-    "title": "qmlviewer",
+    "title": "QML Viewer",
     "hooks": {
-        "qmlviewer.timsueberkrueb": {
+        "qmlviewer": {
             "apparmor": "qmlviewer.timsueberkrueb.apparmor",
             "desktop": "qmlviewer.timsueberkrueb.desktop"
         }
