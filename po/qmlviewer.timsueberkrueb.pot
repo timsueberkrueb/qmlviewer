@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-28 19:17+0000\n"
+"POT-Creation-Date: 2016-08-28 19:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,18 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:48
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:44
 msgid "Toggle theme"
 msgstr ""
 
-#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:64
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:60
 msgid "Close"
 msgstr ""
 
-#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:74
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:70
 msgid "Reload"
 msgstr ""
 
-#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:154
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:150
 msgid "Error loading file"
 msgstr ""
