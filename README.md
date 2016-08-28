@@ -7,8 +7,6 @@ A simple QML file viewer for Ubuntu
 
 ## Installation
 
-### Ubuntu Store
-
 ### Ubuntu Desktop
 Make sure you have all dependencies installed:
 ```
