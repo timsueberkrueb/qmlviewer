@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>FileSelector.qml</file>
+        <file>ThemedHeader.qml</file>
+    </qresource>
+</RCC>
