@@ -9,7 +9,7 @@
             "desktop": "qmlviewer.timsueberkrueb.desktop"
         }
     },
-    "version": "0.1",
-    "maintainer": "Firstname Surname <your@mail.com>",
+    "version": "0.1.1",
+    "maintainer": "Tim Süberkrüb <tim.sueberkrueb@web.de>",
     "framework": "ubuntu-sdk-15.04.6"
 }
