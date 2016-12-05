@@ -44,17 +44,17 @@ UBUNTU_MANIFEST_FILE=click/manifest.json
 
 # specify translation domain, this must be equal with the
 # app name in the manifest file
-#UBUNTU_TRANSLATION_DOMAIN="qmlviewer.timsueberkrueb"
+UBUNTU_TRANSLATION_DOMAIN="qmlviewer.timsueberkrueb"
 
 # specify the source files that should be included into
 # the translation file, from those files a translation
 # qmlviewer is created in po/qmlviewer.pot, to create a
 # translation copy the qmlviewer to e.g. de.po and edit the sources
-#UBUNTU_TRANSLATION_SOURCES+= \
-#    $$files(*.qml,true) \
-#    $$files(*.js,true) \
-#    $$files(*.desktop,true)
+UBUNTU_TRANSLATION_SOURCES+= \
+    $$files(*.qml,true) \
+    $$files(*.js,true) \
+    $$files(*.desktop,true)
 
 # specifies all translations files and makes sure they are
 # compiled and installed into the right place in the click package
-#UBUNTU_PO_FILES+=$$files(po/*.po)
+UBUNTU_PO_FILES+=$$files(po/*.po)
