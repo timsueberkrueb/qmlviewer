@@ -39,7 +39,7 @@ Rectangle {
 
                 Label {
                     SlotsLayout.position: SlotsLayout.Center
-                    text: "Go up"
+                    text: i18n.tr("Go up")
                     color: theme.palette.normal.foregroundText
                 }
 
