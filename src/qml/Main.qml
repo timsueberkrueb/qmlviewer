@@ -4,7 +4,7 @@ import Ubuntu.Components 1.3
 import Qt.labs.settings 1.0
 
 Window {
-    title: "QML Viewer"
+    title: i18n.tr("QML Viewer")
 
     width: units.gu(100)
     height: units.gu(75)
@@ -36,7 +36,7 @@ Window {
             ThemedHeader {
                 id: selectHeader
                 visible: !contentItem.filePath
-                title: "QML Viewer"
+                title: i18n.tr("QML Viewer")
                 dark: mainView.darkTheme
                 trailingActionBar.actions: [
                     Action {
