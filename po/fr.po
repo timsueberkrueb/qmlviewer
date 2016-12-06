@@ -14,7 +14,7 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/tim/Dev/Projects/qmlviewer/src/qml/FileSelector.qml:42
@@ -28,7 +28,7 @@ msgstr "Visionneuse de QML"
 
 #: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:44
 msgid "Toggle theme"
-msgstr "Changer de thème"
+msgstr "Changer de thme"
 
 #: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:60
 msgid "Close"
