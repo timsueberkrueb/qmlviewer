@@ -24,7 +24,7 @@ CONF_FILES +=  click/qmlviewer.apparmor \
 OTHER_FILES += $${CONF_FILES} \
                $${QML_FILES} \
                $${AP_TEST_FILES} \
-               click/qmlviewer.timsueberkrueb.desktop
+               click/qmlviewer.desktop
 
 # specify where the config files are installed to
 config_files.path = /
