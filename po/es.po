@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-05 19:06+0000\n"
+"PO-Revision-Date: 2018-03-01 12:30+0100\n"
+"Last-Translator: advocatux <advocatux@airpost.net>\n"
+"Language-Team: UBports Spanish Team\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/FileSelector.qml:42
+msgid "Go up"
+msgstr "Subir"
+
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:7
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:39
+msgid "QML Viewer"
+msgstr "Visor de QML"
+
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:44
+msgid "Toggle theme"
+msgstr "Alternar tema"
+
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:60
+msgid "Close"
+msgstr "Cerrar"
+
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:70
+msgid "Reload"
+msgstr "Recargar"
+
+#: /home/tim/Dev/Projects/qmlviewer/src/qml/Main.qml:150
+msgid "Error loading file"
+msgstr "Error cargando el archivo" 
