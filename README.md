@@ -16,6 +16,10 @@ Qt >= 5.4.0 with at least the following modules is required:
  * [qtbase](http://code.qt.io/cgit/qt/qtbase.git)
  * [qtdeclarative](http://code.qt.io/cgit/qt/qtdeclarative.git)
 
+The following modules and their dependencies are required:
+
+ * [Ubuntu UI Toolkit 1.3](https://github.com/ubports/ubuntu-ui-toolkit)
+
 ## Installation
 
 We use [clickable](http://clickable.bhdouglass.com/).
