@@ -2,49 +2,40 @@
 
 A simple QML file viewer for Ubuntu
 
-## Credits
-* Thanks to [Sam Hewitt](http://samuelhewitt.com/) for creating the [Ubuntu Icon Resource Kit](https://github.com/snwh/ubuntu-icon-resource-kit) which was used to create the application icon.
+QML Viewer is available for download from the [Open Store](https://open.uappexplorer.com/app/qmlviewer.timsueberkrueb).
+
+## Dependencies
+
+Qt >= 5.4.0 with at least the following modules is required:
+
+ * [qtbase](http://code.qt.io/cgit/qt/qtbase.git)
+ * [qtdeclarative](http://code.qt.io/cgit/qt/qtdeclarative.git)
 
 ## Installation
 
-### Open Store
-QML Viewer is available for download from the [Open Store](https://open.uappexplorer.com/app/qmlviewer.timsueberkrueb).
+We use [clickable](http://clickable.bhdouglass.com/).
 
-### Ubuntu Desktop
-Make sure you have all dependencies installed:
+To build and package the application, run:
+
+```bash
+clickable build
+clickable build-click
 ```
-sudo apt update
-sudo apt install qt5-default
-sudo apt install qtdeclarative5-dev qtbase5-dev
-sudo apt install qtdeclarative5-ubuntu-content1
+
+To install the application on your device, make sure your device is
+connected to your development machine with an USB cable and developer mode is enabled.
+
+Run:
+
 ```
-Clone, build and run:
+clickable install
+clickable launch
 ```
-git clone https://github.com/tim-sueberkrueb/qmlviewer
-cd qmlviewer
-qmake; make
-./qmlviewer.timsueberkrueb
-```
-Tested on Ubuntu 16.04.
 
-### Develop for Ubuntu phone
-Make sure you have the [Ubuntu SDK installed](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/).
-Open the project (File > Open file or project > Select `qmlviewer.timsueberkrueb.pro`)
+## Credits
 
-Select and/or create all necessary build kits in the `Projects` tab.
+* Thanks to [Sam Hewitt](http://samuelhewitt.com/) for creating the [Ubuntu Icon Resource Kit](https://github.com/snwh/ubuntu-icon-resource-kit) which was used to create the application icon.
 
-Attach a device and click the run button.
+## Licensing
 
-
-## License and Copyright
-
-Copyright © 2016 Tim Süberkrüb
-
-This application is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-See LICENSE for more information.
-
-
-
-
-
+Licensed under the terms of the GNU General Public License version 3 or, at your option, any later version.
