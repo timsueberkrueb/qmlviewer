@@ -3,7 +3,7 @@ QMLViewer
 
 # Core Developers
 
- * Tim Süberkrüb <tim.sueberkrueb@web.de>
+ * Tim Süberkrüb <dev@timsueberkrueb.io>
 
 # Contributors
 
@@ -20,5 +20,6 @@ Remember to update this file before any release is made, also make sure
 a .mailmap file is maintained if committer names and email addresses
 change over time.
 
- * Tim Süberkrüb <tim.sueberkrueb@web.de>
- * Anne017 <anneonyme017@openmailbox.org>
+* Tim Süberkrüb <dev@timsueberkrueb.io>
+* Anne017 <anneonyme017@openmailbox.org>
+* advocatux <advocatux@users.noreply.github.com>
