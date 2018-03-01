@@ -7,7 +7,7 @@
 
 A simple QML file viewer for Ubuntu
 
-QML Viewer is available for download from the [Open Store](https://open.uappexplorer.com/app/qmlviewer.timsueberkrueb).
+QML Viewer is available for download from the [Open Store](https://open-store.io/app/qmlviewer.timsueberkrueb).
 
 ## Dependencies
 
