@@ -16,12 +16,9 @@ RESOURCES += src/qml/qml.qrc
 QML_FILES += $$files(*.qml,true) \
              $$files(*.js,true)
 
-CONF_FILES +=  click/qmlviewer.timsueberkrueb.apparmor \
-               click/qmlviewer.timsueberkrueb.desktop \
+CONF_FILES +=  click/qmlviewer.apparmor \
+               click/qmlviewer.desktop \
                icon.png
-
-#AP_TEST_FILES += tests/autopilot/run \
-#                 $$files(tests/*.py,true)
 
 # show all the files in QtCreator
 OTHER_FILES += $${CONF_FILES} \

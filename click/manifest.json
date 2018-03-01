@@ -5,8 +5,8 @@
     "title": "QML Viewer",
     "hooks": {
         "qmlviewer": {
-            "apparmor": "qmlviewer.timsueberkrueb.apparmor",
-            "desktop": "qmlviewer.timsueberkrueb.desktop"
+            "apparmor": "qmlviewer.apparmor",
+            "desktop": "qmlviewer.desktop"
         }
     },
     "version": "0.1.2",
