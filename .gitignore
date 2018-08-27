@@ -40,5 +40,8 @@ CMakeLists.txt.user*
 *.click
 .ubuntu-sdk-deploy
 
+# Build folder
+build/
+
 # Executable
 qmlviewer.timsueberkrueb
