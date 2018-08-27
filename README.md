@@ -1,9 +1,9 @@
 # QML Viewer
 
 [![License](https://img.shields.io/badge/license-GPLv3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![GitHub release](https://img.shields.io/github/release/tim-sueberkrueb/qmlviewer.svg)](https://github.com/tim-sueberkrueb/qmlviewer/releases)
-[![GitHub issues](https://img.shields.io/github/issues/tim-sueberkrueb/qmlviewer.svg)](https://github.com/tim-sueberkrueb/qmlviewer/issues)
-[![Maintained](https://img.shields.io/maintenance/yes/2018.svg)](https://github.com/tim-sueberkrueb/qmlviewer/commits/develop)
+[![GitHub release](https://img.shields.io/github/release/timsueberkrueb/qmlviewer.svg)](https://github.com/timsueberkrueb/qmlviewer/releases)
+[![GitHub issues](https://img.shields.io/github/issues/timsueberkrueb/qmlviewer.svg)](https://github.com/timsueberkrueb/qmlviewer/issues)
+[![Maintained](https://img.shields.io/maintenance/yes/2018.svg)](https://github.com/timsueberkrueb/qmlviewer/commits/develop)
 
 A simple QML file viewer for Ubuntu
 
