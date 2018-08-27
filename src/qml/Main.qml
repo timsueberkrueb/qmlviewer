@@ -73,6 +73,7 @@ Window {
                             contentItem.filePath = "";
                             componentCache.clear();
                             contentItem.filePath = fp;
+                            contentItem.loadComponent();
                         }
                     }
                 ]
